@@ -5,10 +5,10 @@ export const theme = {
     colors: {
       // Principais
 
-      primary: "#ea5d1d",
-      buttonColor: "#ea5d1d",
-      minititleDark: "#ea5d1d", //bg minitag de seções claras
-      minititle: "#ea5d1d", //bg minitag de seções escuras
+      primary: "#003d75",
+      buttonColor: "#003d75",
+      minititleDark: "#003d75", //bg minitag de seções claras
+      minititle: "#003d75", //bg minitag de seções escuras
 
       secondary: "#000000",
 
