@@ -18,7 +18,7 @@
   },
   "hero": {
     "miniTag": "CONSULTORIA EMPRESARIAL EM MARINGÁ - PR",
-    "title": "Transforme sua <span class=\" font-bold\">empresa</span> agora",
+    "title": "Transforme sua <span class=\" font-bold text-primary\">empresa</span> agora",
     "subtitle": "Saia do caos: otimizamos seus processos e treinamos sua equipe para sua empresa render muito mais.",
     "ctaButtonText": "Quero destravar minha empresa",
     "obsHero": {

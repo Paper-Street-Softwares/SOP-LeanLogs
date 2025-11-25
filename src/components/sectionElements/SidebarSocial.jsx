@@ -63,7 +63,7 @@ export default function SidebarSocial({ colorMode, mode = "blog" }) {
       <div className="flex justify-center card">
         <AlignJustify
           className={`p-button-rounded p-button-outlined lg:hidden ${
-            colorMode ? "text-white" : "text-white"
+            colorMode ? "text-bgSectionDark" : "text-bgSectionDark"
           } w-[40px] h-[40px]`}
           onClick={() => setVisible(true)}
         />
@@ -88,7 +88,7 @@ export default function SidebarSocial({ colorMode, mode = "blog" }) {
                     <img
                       src={content.texts.navbar.solidLogo.img}
                       alt={content.texts.navbar.solidLogo.alt}
-                      className="w-[90%] h-auto p-2 rounded-sm bg-white"
+                      className="w-[90%] h-auto bg-white p-2 rounded-sm"
                     />
                   </span>
                   <span>
