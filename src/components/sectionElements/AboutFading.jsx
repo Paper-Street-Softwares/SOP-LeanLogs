@@ -1,6 +1,9 @@
 import { Trans } from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 export default function AboutFading({ colorMode = "default" }) {
+  const { t } = useTranslation();
+
   const textClasses = {
     dark: "text-white",
     light: "text-secondary",
@@ -22,7 +25,13 @@ export default function AboutFading({ colorMode = "default" }) {
         max-h-[200px] overflow-hidden
       `}
     >
-      <Trans i18nKey="about.paragraph" />
+      <div
+        className={`
+    relative font-secondFont text-paragraph4 ${textClass}
+    max-h-[200px] overflow-hidden
+  `}
+        dangerouslySetInnerHTML={{ __html: t("about.paragraph") }}
+      />
 
       <div
         className={`pointer-events-none absolute bottom-0 w-full h-[80px] bg-gradient-to-b from-transparent ${fadeClass}`}

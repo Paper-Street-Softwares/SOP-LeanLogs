@@ -57,7 +57,6 @@ export default function About({ modal = true, showGallery, colorMode }) {
             </picture>
           )}
         </MotionDivDownToUp>
-
         <div className="desktop1:w-[550px] desktop2:w-[570px]">
           <SectionHeader
             className="text-center"

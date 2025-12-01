@@ -19,10 +19,10 @@
   "hero": {
     "miniTag": "CONSULTORIA EMPRESARIAL EM MARINGÁ - PR",
     "title": "Transforme sua <span class=\" font-bold text-primary\">empresa</span> agora",
-    "subtitle": "Saia do caos: otimizamos seus processos e treinamos sua equipe para sua empresa render muito mais.",
+    "subtitle": "Saia do caos: reduza custos, aumente produtividade - otimizamos seus processos e treinamos sua equipe para sua empresa render muito mais.",
     "ctaButtonText": "Quero destravar minha empresa",
     "obsHero": {
-      "text": "Disponibilizamos atendimento on-line com consultoria, mentoria e treinamentos especializados."
+      "text": "Disponibilizamos atendimento on-line com consultoria e treinamentos especializados."
     }
   },
   "features": {
@@ -87,13 +87,13 @@
     "title": "Nossa trajetória",
     "subtitle": "Soluções completas para elevar resultados em Lean, Logística e Cadeia de Suprimentos.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "A LeanLogs nasceu com a missão de impulsionar empresas e profissionais que atuam em Lean, Logística e Cadeia de Suprimentos.",
-    "modal": "A LeanLogs nasceu com a missão de impulsionar empresas e profissionais que atuam em Lean, Logística e Cadeia de Suprimentos. <br/><br/> Ao longo da nossa trajetória, reunimos consultoria, serviços, mentoring, treinamentos, cursos, palestras e eventos em uma mesma plataforma de crescimento. <br/><br/> Também apoiamos carreiras com análise curricular e otimização de perfis no LinkedIn, ajudando profissionais a alcançarem novas oportunidades e maior destaque no mercado. <br/><br/>",
+    "paragraph": "Atuamos em diversos segmentos, elevando a performance da sua empresa com <i>lean production, lean logistics, lean production, lean </i>agro, <i>lean TI, lean heath care</i> e <i>lean construction. Atuamos em toda à Supply Chain</i>, garantindo profunda transformação definitiva, onde o conhecimento é entregue de fato para nosso cliente.",
+    "modal": "Atuamos em diversos segmentos, elevando a performance da sua empresa com <i>lean production, lean logistics, lean production, lean </i>agro, <i>lean TI, lean heath care</i> e <i>lean construction. Atuamos em toda à Supply Chain</i>, garantindo profunda transformação definitiva, onde o conhecimento é entregue de fato para nosso cliente. <br/><br/> Trabalhamos com resultados e não com sonhos ou promessas. <br/><br/> Também atuamos nas áreas de  recursos humanos: implantando do zero ou elevando o nível e a performance do setor cultura e gente (RH) da sua empresa com o <i>lean RH, hunter </i>(processo de recrutamento e seleção) do c-leveis ao nível ao operacional e planos de sucessão. <br/><br/>",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {
       "miniTag": "ASSESSORIA ESPECIALIZADA NACIONAL",
-      "title": "Atendimento on-line em todo Brasil",
+      "title": "Atendimento on-line e presencial em todo Brasil e América do Sul",
       "paragraph": "Com uma assessoria especializada e sem fronteiras, nossa equipe atua em Lean, Logística e Cadeia de Suprimentos para apoiar profissionais e empresas em qualquer lugar do país. Onde você estiver, estamos prontos para oferecer soluções eficientes, personalizadas e focadas em resultados reais.",
       "labelInstagram": "Siga-me no Instagram",
       "labelFacebook": "Siga-me no Facebook",
@@ -161,7 +161,7 @@
       },
       "question2": {
         "question": "Quanto custa contratar a LeanLogs?",
-        "answer": "O valor varia conforme o escopo: tamanho da empresa, complexidade dos processos, tipo de serviço (consultoria, treinamento, mentoring, etc.). Na reunião inicial, apresentamos uma estimativa personalizada."
+        "answer": "O valor varia conforme o escopo: tamanho da empresa, complexidade dos processos, tipo de serviço (consultoria, treinamento, etc.). Na reunião inicial, apresentamos uma estimativa personalizada."
       },
       "question3": {
         "question": "Qual é o tempo meio para ver resultados ao implementar práticas Lean ou logísticas?",
