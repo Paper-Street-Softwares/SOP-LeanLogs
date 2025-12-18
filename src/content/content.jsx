@@ -74,9 +74,9 @@ export const infos = {
     secondPart: '2883', // Apenas os 4 últimos números
   },
   phoneSecundario: {
-    ddd: 'A_Definir',
-    firstPart: 'A_Definir', // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: 'A_Definir', // Apenas os 4 últimos números
+    ddd: '44',
+    firstPart: '99750', // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: '0153', // Apenas os 4 últimos números
   },
   phoneTerciario: {
     ddd: 'A_Definir',
